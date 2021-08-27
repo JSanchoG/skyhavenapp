@@ -901,7 +901,7 @@ function appCheck() {
 function appSentSuc() {
     Swal.fire(
       'Good luck!',
-      'Your application has been submitted!<br>Join our <a href="https://discord.gg/8p5arZsHyg" target="_blank">Discord Server</a>.',
+      'Your application has been submitted!<br>Join our <a href="https://discord.gg/ta7xUTNwEh" target="_blank">Discord Server</a>.',
       'success'
     )
   }
