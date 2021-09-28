@@ -781,7 +781,7 @@ function paginationClick(wizard, options, state, index)
  */
 const max_cata = 50;
 const max_avg = 55;
-const weight_req = 4300;
+const weight_req = 5000;
 const avg_req = 0;
 const cata_req = 0;
 function reqs_guild() {
